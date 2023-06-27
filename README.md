@@ -6,13 +6,10 @@ Um projeto pessoal com foco em HTML e um pouquinho de CSS 🚀
 - CSS
 
 ## Motivação
-1 - 
+1 - Exercício proposto no curso de Front-End Engineer da CodeCademy
 
-## O que aprendi
-1 - 
-
-## Dificuldades enfrentadas
-1 -
+## Overview
+[<img src="./img.png" alt="blog-page-overview">]
 
 <!-- ## Como utilizar o projeto
 1 - Clone o projeto:
