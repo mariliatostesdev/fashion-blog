@@ -1,8 +1,5 @@
-# Projeto com README
-
+# Fashion Blog
 Um projeto pessoal com foco em HTML e um pouquinho de CSS 🚀
-
-[<img src="" alt="">]
 
 ## Tecnologias Utilizadas:
 - HTML
