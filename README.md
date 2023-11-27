@@ -3,7 +3,7 @@
 Um projeto pessoal com foco em HTML e um pouquinho de CSS 🚀  
 Exercício proposto no curso de Front-End Engineer da CodeCademy.
 
-Acesse a página aqui: (https://mariliatostesdev.github.io/fashion-blog/
+Acesse a página aqui: https://mariliatostesdev.github.io/fashion-blog/
 ![Visão Geral](./img.png)
 
 ## Conteúdo
